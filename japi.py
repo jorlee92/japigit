@@ -13,7 +13,7 @@ def getStockData(stockName):
 
 def main():
     while True:
-        inp = input("ENTER A STOCK NAME (or 'exit' to exit : ")
+        inp = input("ENTER A STOCK NAME (or 'exit' to exit) : ")
         if(inp == "exit"):
             break
         result = getStockData(inp)
@@ -23,4 +23,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    print("Stock Quotes retrieved successfully")
 
