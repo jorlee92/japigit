@@ -1,0 +1,82 @@
+C:\Users\me\PycharmProjects\Deliverable5\venv\Scripts\python.exe C:/Users/me/PycharmProjects/Deliverable5/japi.py
+ENTER A STOCK NAME (or 'exit' to exit : GBTC
+{
+    "Global Quote": {
+        "01. symbol": "GBTC",
+        "02. open": "48.4500",
+        "03. high": "49.0000",
+        "04. low": "46.9700",
+        "05. price": "48.9100",
+        "06. volume": "9795561",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "48.0000",
+        "09. change": "0.9100",
+        "10. change percent": "1.8958%"
+    }
+}
+The current price of GBTC is 48.9100
+ENTER A STOCK NAME (or 'exit' to exit : AAPL
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "134.3500",
+        "03. high": "135.5300",
+        "04. low": "133.6921",
+        "05. price": "135.3700",
+        "06. volume": "60145130",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "135.1300",
+        "09. change": "0.2400",
+        "10. change percent": "0.1776%"
+    }
+}
+The current price of AAPL is 135.3700
+ENTER A STOCK NAME (or 'exit' to exit : TSLA
+{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "801.2600",
+        "03. high": "817.3300",
+        "04. low": "785.3306",
+        "05. price": "816.1200",
+        "06. volume": "23768313",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "811.6600",
+        "09. change": "4.4600",
+        "10. change percent": "0.5495%"
+    }
+}
+The current price of TSLA is 816.1200
+ENTER A STOCK NAME (or 'exit' to exit : F
+{
+    "Global Quote": {
+        "01. symbol": "F",
+        "02. open": "11.4200",
+        "03. high": "11.6200",
+        "04. low": "11.3700",
+        "05. price": "11.4500",
+        "06. volume": "44401187",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "11.4500",
+        "09. change": "0.0000",
+        "10. change percent": "0.0000%"
+    }
+}
+The current price of F is 11.4500
+ENTER A STOCK NAME (or 'exit' to exit : GM
+{
+    "Global Quote": {
+        "01. symbol": "GM",
+        "02. open": "53.0000",
+        "03. high": "54.1900",
+        "04. low": "52.9600",
+        "05. price": "53.6000",
+        "06. volume": "15317421",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "53.5000",
+        "09. change": "0.1000",
+        "10. change percent": "0.1869%"
+    }
+}
+The current price of GM is 53.6000
+ENTER A STOCK NAME (or 'exit' to exit : 
